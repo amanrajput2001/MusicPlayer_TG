@@ -65,7 +65,7 @@ async def start_private(client: Client, message: Message):
                 [InlineKeyboardButton("⚙️ Initial Setup", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Functions", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ Creator", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("❤️ Creator", url=f"https://t.me/itzamanrajput"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -77,7 +77,7 @@ async def start_private(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Abhijith-Sudhakaran/MusicPlayer_TG"
+                        "🌐 Source Code", url="https://te.legra.ph/file/7ca878a87eb74e36254c7.jpg"
                     )
                 ],
             ]
