@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/9dd9b20abcda2d7bb6725.png",
     "description": "MusicPlayer_TG music allow you to stream music through the telegram video chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Abhijith-Sudhakaran/MusicPlayer_TG",
+    "repository": "https://github.com/amanrajput2001/MusicPlayer_TG",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
