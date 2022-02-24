@@ -81,7 +81,7 @@
 ## Heroku 🔃
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (For Stable Playback).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-Sudhakaran/MusicPlayer_TG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/MusicPlayer_TG)
 
 ### Support & Updates 🎑
 <a href="https://t.me/{GROUP_SUPPORT}"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/{GROUP_SUPPORT}"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
